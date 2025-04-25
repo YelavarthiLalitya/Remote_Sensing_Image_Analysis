@@ -11,7 +11,7 @@ This project focuses on automated, accurate, and scalable object detection and s
 ## Dataset
 The project uses **Kaggle’s High-Resolution Satellite Dataset**, which contains high-resolution RGB images for training, validation, and testing.
 
-- **Source**: [DeepGlobe Land Cover Classification Dataset](https://www.kaggle.com/datasets/balraj98/deepglobe-land-cover-classificationdataset)
+- **Source**: [DeepGlobe Land Cover Classification Dataset](https://www.kaggle.com/datasets/mahmoudreda55/satellite-image-classification)
 - **Classes**: 
     - Agricultural Sector
     - Terminal
